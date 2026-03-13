@@ -115,4 +115,4 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author
 
-Harshil Patel
+Harpil Patel
