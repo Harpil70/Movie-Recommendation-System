@@ -74,11 +74,7 @@ Batman v Superman
 ---
 ## 📂 Dataset
 
-The dataset used in this project is approximately **400MB**, so it is not included in this repository.
-
-To run this project, place your dataset file inside the following folder:
-
-dataset/movie_dataset.csv
+dataset/cleand_dataset.csv
 
 The dataset should contain movie metadata such as:
 
